@@ -13,7 +13,7 @@ dateCreated: 2025-09-16 05:39:31.859000+00:00
 
 # Coletora
 
-Coletora é uma pesquisa aberta / em aberto sobre práticas de documentação. Explora temas de memória, esquecimento e recordação. Mais em Português [aqui]({{ '/projetos/coletora/pt' | relative_url }}).
+Coletora é uma pesquisa aberta / em aberto sobre práticas de documentação. Explora temas de memória, esquecimento e recordação. Mais em Português [aqui]({{ '/pt' | relative_url }}).
 
-Coletora is an open / open-ended research on documentation practices. It explores themes of memory, forgetting and recollection. More in English [here]({{ '/projetos/coletora/en' | relative_url }}).
+Coletora is an open / open-ended research on documentation practices. It explores themes of memory, forgetting and recollection. More in English [here]({{ '/en' | relative_url }}).
 
