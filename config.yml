@@ -1,0 +1,13 @@
+site_metadata:
+  title: Coletora
+  description: Website created with fonte.wiki and Divisor
+  theme: minima
+  github_repository_url: git@github.com:fonte-wiki/Coletora.git
+  github_pages_url: https://fonte-wiki.github.io/Coletora/
+  custom_domain: <none>
+source_repository: https://github.com/fonte-wiki/Backup-fonte-wiki
+content_mapping:
+  home_page_source: projetos/coletora.md
+  subpages_folder: projetos/Coletora
+  destination_folder: site_contents
+  media_destination_folder: assets/media
