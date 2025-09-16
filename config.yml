@@ -8,6 +8,6 @@ site_metadata:
 source_repository: https://github.com/fonte-wiki/Backup-fonte-wiki
 content_mapping:
   home_page_source: projetos/coletora.md
-  subpages_folder: projetos/Coletora
+  subpages_folder: projetos/coletora
   destination_folder: site_contents
   media_destination_folder: assets/media
