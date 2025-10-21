@@ -2,7 +2,7 @@
 title: Coletora (English)
 description: None
 published: True
-date: 2025-09-25 23:39:30.228000+00:00
+date: 2025-10-21 10:15:55.711000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-09-16 05:42:10.187000+00:00
@@ -15,7 +15,7 @@ dateCreated: 2025-09-16 05:42:10.187000+00:00
 
 *[Coletora]({{ '' | relative_url }})* is an open (open-source, open-ended) and emerging methodology informed by 20+ years of community-centred activity. The notes in this wiki are an exercise of simultaneous reflection and practice.
 
-It all starts (does anything ever really?) with [a spring]({{ 'en/spring' | relative_url }}). And then, some thoughts on [collecting]({{ '/en/collecting' | relative_url }}).
+It all starts (does anything ever really?) with [a spring]({{ 'en/spring' | relative_url }}). And then, some thoughts on [collecting]({{ '/en/collecting' | relative_url }}). At some point, [mapping]({{ 'en/mapping' | relative_url }}) may be useful too.
 
 > **Reminder:** the English and [Portuguese]({{ '/pt' | relative_url }}) of this research documentation wiki will evolve separately. Some pages will be translated, others not. That's intentional.
 
