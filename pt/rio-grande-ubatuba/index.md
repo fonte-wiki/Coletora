@@ -2,7 +2,7 @@
 title: Rio Grande de Ubatuba
 description: None
 published: True
-date: 2025-10-22 11:13:17.900000+00:00
+date: 2026-04-18 05:44:51.203000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-10-22 11:13:17.900000+00:00
@@ -22,3 +22,9 @@ Chego aqui nesses dias com uma necessidade de respirar mais fundo e reorganizar 
 A intensa vida do mangue é mais um elemento. São múltiplas espécies dando as caras o tempo inteiro. Nada aqui é estático. Aquela ideia de ambiente natural que se comporta como um zoológico - organizado, catalogado, previsível - não faz nenhum sentido por aqui.
 
 Por coincidência (se é que isso existe), estarei em Ubatuba na próxima semana durante o evento de lançamento da Residência S+T+Arts organizada pelo [LACO]({{ '/pt/laco' | relative_url }}). O nome do evento é "Instabilidades Costeiras", e vou registrar minhas impressões aqui na Coletora.
+
+---
+
+Depois das anotações acima, eu ainda passaria um tempo razoável na Bacia do Rio Grande. Havia inicialmente me programado para ficar dois meses, e estiquei por mais dois. Me reconectei com muitas pessoas, contextos, questões. E ao fim acabei tomando a decisão de voltar.
+
+Escrevo estas linhas (ou melhor, digito essas palavras) do outro lado do Atlântico, já perto do [Rio Vouga]({{ '/pt/vouga' | relative_url }}). Hoje também é primavera, mas já de 2026. Estou circulando um pouco pelo "velho" continente antes de me restabelecer em Ubatuba. E tenho escutado outras bacias para inspirar o tipo de ação que vou tomar quando retornar ao Rio Grande de Ubatuba. Ou, como decidimos chamar após uma série de conversas com parceiros em potencial, o *Yguasu* - literalmente, "Rio Grande" em Guarani e também em Tupi antigo.
