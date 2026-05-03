@@ -28,9 +28,6 @@ jobs:
       - name: Generate website content
         run: python cli.py generate --config config.yml
 
-      - name: Add CNAME for Custom Domain
-        run: echo "coletora.fonte.wiki" > site_contents/CNAME
-
       - name: Verify generated site_contents directory
         run: |
           echo "Current directory after content generation:"
