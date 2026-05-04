@@ -2,7 +2,7 @@
 title: Águas
 description: None
 published: True
-date: 2026-05-04 09:07:29.697000+00:00
+date: 2026-05-04 09:13:10.590000+00:00
 tags: None
 editor: markdown
 dateCreated: 2025-09-24 12:06:16.926000+00:00
@@ -69,3 +69,8 @@ Acho que escrevi todos esses longos parágrafos acima somente para dar um contex
 ---
 
 Muitas formas de colecionar, muitas formas de mostrar. Bonito [isso aqui](https://terramar.online/).
+
+
+---
+
+Reconvergência entre meus caminhos de trabalho: a costa e os resíduos. Aliás, essa consulta pública paulista sobre [lixo no mar](https://semil.sp.gov.br/lixo-no-mar/) pode ser um caminho interessante.
